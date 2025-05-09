@@ -44,7 +44,7 @@ if __name__ == "__main__":
 
         try:
 
-            user_input = input("enter a string or a float: ")
+            user_input = input("enter a string or a float 'q' to quit: ")
 
             if not user_input:
                 print("try again")
